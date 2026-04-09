@@ -1,0 +1,51 @@
+id,name,grantedAt,coinCost,isRare,description
+021cae00-d302-475c-84d8-43a611468fb6,Gold Star,2025-10-09,200,False,Outstanding contribution to the community
+3932827f-f4b1-4007-a4cf-00565ed1d38e,Silver Medal,2025-08-02,100,False,Great post that deserves recognition
+c95c41c2-5834-459d-b089-a3e1d43974b3,Helpful Award,2025-10-23,50,False,This post helped someone out
+ab637da0-46be-4613-ad9f-cecdb73e08d0,Wholesome,2025-04-27,100,False,Pure wholesome content
+2e37111b-41db-47de-b951-189f59374d30,Mind Blown,2025-08-31,200,False,This post blew my mind
+7ebf573f-b0fd-4f3b-95ab-a918d48409d8,Take My Energy,2025-05-30,100,False,Sending positive vibes
+fa95c3f3-2575-408c-a890-53c02e608977,Platinum Trophy,2025-05-23,50,False,The rarest and most prestigious award
+4f07a12f-ba84-4403-9c59-108e83d1fac4,Game Changer,2026-01-14,500,False,A post that changed the game
+cef90076-ce44-426d-8fb4-51dc52524bb8,MVP,2025-12-30,50,False,Most Valuable Poster
+75cc1635-eeb6-4967-aa15-ab074e08889e,Legend,2025-10-04,2000,True,Legendary status achieved
+b0929e7f-94dc-402f-9fe6-33582c40f5ba,Pro Gamer Move,2026-01-15,500,False,A truly pro gamer move
+7423a091-0fe5-49ba-966a-93a4205ca13f,Big Brain,2025-04-09,1000,True,Intellectual content of the highest order
+b49d313a-1b66-4c1f-a3c1-cef16bf49804,GG,2025-05-27,2000,True,"Good game, well played"
+fdafdaee-04a3-4c56-9cb5-fcdd8f6c1865,Clutch,2025-04-26,50,False,Came through when it mattered most
+43486e15-bc79-4ef8-98c8-fb67a65ff21c,Speedrunner,2025-10-19,500,False,Fast and efficient content
+cc8c9a13-3ec9-437a-95eb-5313862d2be4,Easter Egg,2026-03-30,5000,True,Hidden gem of a post
+f8659d11-7ccb-4070-b9f2-6d19371736f9,Pixel Perfect,2025-07-10,1000,True,Attention to detail is immaculate
+10813d4f-631c-4bc8-84bf-1c348813c232,Lore Master,2025-11-13,50,False,Deep knowledge of game lore
+aa368327-19cf-4f77-a51e-484efd5b3d0d,Bug Hunter,2026-03-03,100,False,Found and reported a bug
+8465c48f-54ea-42bf-a145-9ee425d0197a,Community Hero,2025-10-12,1000,True,Goes above and beyond for the community
+73e355e2-3ce3-42f7-a1c5-54817d64e115,First Blood,2026-01-31,500,False,First to post something noteworthy
+0d1ec803-b53e-467e-875d-67fe67de9d50,Combo Breaker,2025-04-29,50,False,Broke the chain in the best way
+bf6d3286-a2e9-4791-936d-5c650c0ec871,Critical Hit,2025-12-08,50,False,This post hit different
+b77b0a25-e7a0-49ce-81b8-751dcc9a7026,Power Up,2025-05-09,200,False,Energizing the community
+612d25dd-e20d-49ff-a040-8475e12dbc89,Boss Defeated,2025-09-16,5000,True,Overcame a major challenge
+b750c0fc-1d95-4786-8693-5e1f7613ebaf,Secret Achievement,2025-12-27,500,False,Unlocked something unexpected
+83e38cc2-7174-420f-91ad-73358befc0c3,Noob Friendly,2025-07-05,50,False,Great for newcomers
+2f955b0a-a37e-42ee-86a2-36743238b347,Veteran,2025-05-26,5000,True,Wisdom from experience
+c41b8437-d78b-4848-b4c6-d381f2c0a23e,Streamer Approved,2025-09-19,2000,True,Content worthy of a stream
+a4950c09-ca59-4dbc-aed2-399c0559e3a0,Mod Pick,2025-05-28,50,False,Selected by the moderators
+b619e209-4e33-45b4-a9b1-490280dbd6fa,Fan Favorite,2025-11-18,5000,True,Loved by the community
+cb8ce817-109f-4a4a-8779-6878a4fe64f5,Trailblazer,2025-08-08,500,False,First to explore new territory
+8f3e8301-6825-44dd-8962-c323475d2e9a,Night Owl,2025-10-24,50,False,Quality late-night content
+49412e9c-6f34-4a3a-a199-872966e00252,Early Bird,2025-05-03,100,False,First to the scene
+1ad5ce82-3a81-46c4-ad37-d0e675d3911a,Team Player,2026-03-30,100,False,Great collaborative spirit
+2c5d8f99-4bf0-44f8-b50d-d833e6642c0b,Solo Legend,2025-04-28,5000,True,Impressive solo achievement
+2c481576-9f5a-47d9-acbe-bcb69fdc0dd2,Rage Quit,2026-02-24,2000,True,Hilariously frustrating content
+a2ef815f-5c14-44e6-b892-ba4ab7e42e72,Respawn,2026-03-25,50,False,Back with even better content
+118d9169-b261-455a-b60d-5b3cf8129626,Save Point,2025-09-30,1000,True,A post worth bookmarking
+07661c9f-dcdc-4cce-9eb4-e2e9f5958965,Final Boss,2025-10-10,2000,True,The ultimate post
+fce1cd69-ae8a-4143-b6f6-ee0938683802,Treasure Chest,2025-05-21,200,False,Full of valuable information
+38509747-e6ef-41b8-93f4-fbb4738e5da7,Side Quest,2025-11-19,5000,True,Interesting tangent worth exploring
+63b35eb5-23ad-4d28-8a9e-d2adb3d602e9,Main Quest,2025-09-08,5000,True,Core content that drives discussion
+a89de516-420c-450a-a12f-aae0620745e2,DLC Worthy,2025-12-18,50,False,Could be its own expansion
+ed3f31e6-860a-4e16-b3f0-ea9438d3c62d,Patch Notes,2026-03-30,100,False,Important updates and changes
+cee1452b-1d2e-4d1d-a6d9-6a54582c9591,Achievement Unlocked,2025-10-17,200,False,Did something remarkable
+1bab2be2-d756-4185-9524-b906af07fcfd,Inventory Full,2025-09-23,500,False,So much good content
+2ca3466c-aba7-4321-a248-6da9bcd7683b,Checkpoint,2025-10-15,2000,True,A milestone post
+692b5340-3d53-4174-9cd2-2f2700083e53,New Game Plus,2026-03-11,5000,True,Taking things to the next level
+ab894829-a75c-44c3-8a9e-821994fad366,Prestige,2026-01-23,50,False,Reached the highest tier

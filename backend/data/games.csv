@@ -1,0 +1,521 @@
+id,title,releaseDate,metacriticScore,isMultiplayer,platforms
+3498,Grand Theft Auto V,2013-09-17,92.0,True,PlayStation 5;Xbox Series S/X;PlayStation 3;PC;PlayStation 4;Xbox 360;Xbox One
+3328,The Witcher 3: Wild Hunt,2015-05-18,92.0,False,PlayStation 5;Xbox Series S/X;macOS;PlayStation 4;Nintendo Switch;PC;Xbox One
+4200,Portal 2,2011-04-18,95.0,True,PlayStation 3;PC;Xbox 360;Linux;macOS;Xbox One
+4291,Counter-Strike: Global Offensive,2012-08-21,81.0,True,PC;Linux;Xbox 360;PlayStation 3
+5286,Tomb Raider (2013),2013-03-05,86.0,True,PlayStation 3;Xbox 360;macOS;PC
+13536,Portal,2007-10-09,90.0,False,macOS;PC;Android;PlayStation 3;Xbox 360;Linux;Nintendo Switch
+12020,Left 4 Dead 2,2009-11-17,89.0,True,Xbox 360;Linux;PC;macOS
+5679,The Elder Scrolls V: Skyrim,2011-11-11,94.0,False,PlayStation 5;PlayStation 4;PC;Xbox One;Xbox Series S/X;Nintendo Switch;Xbox 360;PlayStation 3
+28,Red Dead Redemption 2,2018-10-26,96.0,True,PC;PlayStation 4;Xbox One
+4062,BioShock Infinite,2013-03-26,94.0,False,PlayStation 4;Xbox 360;Nintendo Switch;Linux;PC;PlayStation 3;Xbox One
+13537,Half-Life 2,2004-11-16,96.0,True,PC;macOS;Xbox 360;Linux;Xbox;Android
+802,Borderlands 2,2012-09-18,89.0,True,PlayStation 3;macOS;PC;Android;Linux;PS Vita;Xbox 360
+3439,Life is Strange,2015-01-29,83.0,False,iOS;PC;Linux;PlayStation 3;macOS;Xbox 360;Android;PlayStation 4;Xbox One
+4286,BioShock,2007-08-21,96.0,False,PlayStation 3;macOS;PC;Xbox 360
+32,Destiny 2,2017-09-06,82.0,True,PlayStation 4;Xbox One;PC;Web;Xbox Series S/X;PlayStation 5
+58175,God of War (2018),2018-04-20,94.0,False,PC;PlayStation 4
+3070,Fallout 4,2015-11-09,84.0,False,PlayStation 4;PC;PlayStation 5;Xbox One
+1030,Limbo,2010-07-21,88.0,False,PC;Android;PS Vita;PlayStation 4;PlayStation 3;Xbox 360;Linux;macOS;iOS;Xbox One;Nintendo Switch
+3939,PAYDAY 2,2013-08-13,79.0,True,Linux;PC;Xbox One
+11859,Team Fortress 2,2007-10-10,92.0,True,Linux;macOS;PC
+2454,DOOM (2016),2016-05-12,85.0,True,PC;PlayStation 4;Nintendo Switch;Xbox One
+41494,Cyberpunk 2077,2020-12-10,73.0,False,Nintendo Switch;PlayStation 4;PC;Xbox Series S/X;PlayStation 5;Xbox One
+422,Terraria,2011-05-16,81.0,True,Xbox 360;Wii U;Nintendo 3DS;Xbox One;PlayStation 4;iOS;PC;macOS;Linux;Nintendo Switch;PlayStation 3;PS Vita;Android
+4459,Grand Theft Auto IV,2008-04-29,95.0,True,Xbox 360;PC;PlayStation 3;Xbox One
+10213,Dota 2,2013-07-09,90.0,True,Linux;macOS;PC
+766,Warframe,2013-03-25,73.0,True,iOS;Xbox Series S/X;PlayStation 5;PlayStation 4;Xbox One;Nintendo Switch;PC
+3272,Rocket League,2015-07-07,86.0,True,Nintendo Switch;macOS;PC;Linux;Xbox One;PlayStation 4
+278,Horizon Zero Dawn,2017-02-28,89.0,False,PC;PlayStation 4
+29028,Metro 2033,2010-03-16,79.0,False,PC;Xbox 360
+7689,Rise of the Tomb Raider,2015-11-10,86.0,False,Xbox One;PC;macOS;PlayStation 4
+3287,Batman: Arkham Knight,2015-06-23,81.0,False,PC;Nintendo Switch;Xbox One;PlayStation 4
+3192,Metal Gear Solid V: The Phantom Pain,2015-09-01,91.0,True,PlayStation 4;PC;Xbox One;PlayStation 3;Xbox 360
+416,Grand Theft Auto: San Andreas,2004-10-26,93.0,True,macOS;PC;iOS;Xbox;Android;PlayStation 4;PlayStation 3;PlayStation 2;Xbox 360;Xbox One
+16944,The Witcher 2: Assassins of Kings Enhanced Edition,2012-04-16,88.0,True,macOS;PC;Xbox 360
+290856,Apex Legends,2019-02-04,80.0,True,PlayStation 4;Nintendo Switch;macOS;PC;Xbox One
+17822,The Witcher: Enhanced Edition Director's Cut,2008-09-16,86.0,False,PC;macOS
+9767,Hollow Knight,2017-02-23,88.0,False,PlayStation 4;Linux;macOS;PC;Nintendo Switch;Xbox One
+11973,Middle-earth: Shadow of Mordor,2014-09-30,85.0,False,Linux;Xbox One;Xbox 360;PlayStation 3;PlayStation 4;macOS;PC
+19103,Half-Life 2: Lost Coast,2005-10-27,0.0,True,macOS;Linux;PC
+23027,The Walking Dead: Season 1,2012-04-23,92.0,False,Android;PS Vita;macOS;PC;iOS;PlayStation 4;PlayStation 3;Xbox 360;Nintendo Switch;Xbox One
+41,Little Nightmares,2017-04-27,81.0,False,iOS;PlayStation 4;PC;Xbox One;Nintendo Switch
+4427,BioShock 2,2010-02-09,88.0,True,PlayStation 3;Xbox 360;macOS;PC;PlayStation 4;Xbox One;Nintendo Switch
+18080,Half-Life,1998-11-19,96.0,True,Linux;macOS;PC;Dreamcast;PlayStation 2
+19710,Half-Life 2: Episode One,2006-06-01,87.0,False,Android;Linux;macOS;PC;Xbox 360
+19709,Half-Life 2: Episode Two,2007-10-10,90.0,True,Android;macOS;PC;Linux;Xbox 360
+11936,Half-Life 2: Deathmatch,2004-11-01,0.0,True,Linux;macOS;PC
+2551,Dark Souls III,2016-04-11,89.0,True,Xbox One;PlayStation 4;PC
+654,Stardew Valley,2016-02-25,89.0,True,Nintendo Switch;Xbox One;PC;iOS;macOS;Linux;PlayStation 4;PS Vita;Android
+4252,Mirror's Edge,2008-11-11,81.0,False,Xbox 360;PlayStation 3;PC
+10754,BioShock Remastered,2016-09-15,0.0,False,PlayStation 4;Nintendo Switch;macOS;PC;Xbox One
+3612,Hotline Miami,2012-10-22,85.0,False,Linux;Nintendo Switch;Xbox One;PlayStation 4;PS Vita;PC
+10035,Hitman,2016-03-11,83.0,False,PlayStation 4;Linux;macOS;PC;Xbox One
+3790,Outlast,2013-09-03,80.0,False,Linux;macOS;Nintendo Switch;PC;Xbox One;PlayStation 4
+4161,Far Cry 3,2012-11-28,88.0,True,Xbox One;Xbox 360;PlayStation 3;PC;PlayStation 4
+1447,Deus Ex: Mankind Divided,2016-08-22,83.0,False,Linux;PC;Xbox One;macOS;PlayStation 4
+10142,PlayerUnknown’s Battlegrounds,2017-12-20,81.0,True,PC;Xbox One;PlayStation 4
+10533,Path of Exile,2013-10-23,86.0,True,Xbox One;PlayStation 4;PC
+19487,Alan Wake,2010-05-14,83.0,False,Xbox 360;Xbox One;PC
+58134,Marvel's Spider-Man,2018-09-07,87.0,False,PlayStation 4;PC;PlayStation 5
+3696,Wolfenstein: The New Order,2014-05-19,81.0,True,Xbox One;PC;Xbox 360;PlayStation 3;PlayStation 4
+29177,Detroit: Become Human,2018-05-25,79.0,False,PC;PlayStation 4
+9721,Garry's Mod,2004-12-24,0.0,True,Linux;macOS;PC
+13668,Amnesia: The Dark Descent,2010-09-08,85.0,False,Linux;macOS;PC
+4332,Spec Ops: The Line,2012-06-26,76.0,True,Xbox 360;PlayStation 3;Xbox One;PC
+11935,Half-Life Deathmatch: Source,2006-05-01,0.0,True,macOS;Linux;PC
+4386,Saints Row: The Third,2011-11-15,84.0,True,Linux;PC;Xbox One;Xbox 360;PlayStation 3
+39,Prey,2017-05-05,80.0,False,Xbox One;PC;PlayStation 4
+5563,Fallout: New Vegas,2010-10-19,84.0,False,Xbox 360;PC;Xbox One;PlayStation 4;PlayStation 3
+4828,Borderlands,2009-10-20,81.0,True,PC;Xbox 360;PlayStation 3
+12447,The Elder Scrolls V: Skyrim Special Edition,2016-10-27,74.0,False,PlayStation 4;PC;Xbox One
+864,Dishonored 2,2016-11-10,86.0,False,Xbox One;PC;PlayStation 4
+4248,Dishonored,2012-09-25,91.0,False,PlayStation 4;PlayStation 3;Xbox 360;PC;Xbox One
+9882,Don't Starve Together,2016-04-21,83.0,True,Linux;Xbox One;PlayStation 4;macOS;PC
+12536,Hellblade: Senua's Sacrifice,2017-08-07,83.0,False,Xbox One;Nintendo Switch;PlayStation 4;PC
+430,Grand Theft Auto: Vice City,2002-10-27,94.0,True,Android;macOS;PC;iOS;PlayStation 4;PS Vita;PlayStation 2;Xbox
+10243,Company of Heroes 2,2013-06-25,80.0,True,Linux;macOS;PC
+17540,Injustice: Gods Among Us Ultimate Edition,2013-11-12,80.0,True,PlayStation 4;PS Vita;PC;Xbox 360;PlayStation 3
+3841,Assassin’s Creed IV: Black Flag,2013-10-29,85.0,True,Xbox 360;Xbox One;PC;Nintendo Switch;Wii U;PlayStation 3;PlayStation 4
+13633,Sid Meier's Civilization V,2010-09-21,90.0,True,PC;macOS;Linux
+5583,Hitman: Absolution,2012-11-19,79.0,True,PlayStation 3;macOS;PC;Nintendo Switch;Xbox 360;Xbox One;PlayStation 4
+4514,L.A. Noire,2011-05-17,83.0,False,PlayStation 4;PlayStation 3;Xbox 360;PC;Xbox One;Nintendo Switch
+58812,Control,2019-08-27,84.0,False,Xbox Series S/X;PlayStation 5;Xbox One;PlayStation 4;PC
+3144,Super Meat Boy,2010-10-20,87.0,False,Linux;Nintendo Switch;Wii U;Xbox 360;PlayStation 4;PS Vita;Android;Web;PC;macOS
+362,For Honor,2017-02-13,76.0,True,Xbox One;PlayStation 4;PC
+257201,Star Wars Jedi: Fallen Order,2019-11-15,80.0,False,PlayStation 4;PC;PlayStation 5;Xbox One
+2462,Uncharted 4: A Thief’s End,2016-05-10,93.0,False,PlayStation 5;PlayStation 4
+11934,Counter-Strike: Source,2004-11-01,88.0,True,Linux;macOS;PC
+4570,Dead Space (2008),2008-10-13,86.0,False,PlayStation 3;PC;Xbox One;Xbox 360
+4806,Mass Effect 2,2010-01-26,94.0,False,PC;Xbox One;PlayStation 3;Xbox 360
+50738,Death Stranding,2019-11-08,84.0,False,PC;PlayStation 4
+3017,Just Cause 3,2015-11-30,74.0,True,Xbox One;PlayStation 4;PC
+3604,Metro: Last Light Redux,2014-08-25,76.0,True,Nintendo Switch;PC;Linux;Xbox One;PlayStation 4;macOS
+3603,Metro 2033 Redux,2014-08-25,88.0,True,PlayStation 4;Xbox One;Nintendo Switch;PC;macOS;Linux
+3543,Borderlands: The Pre-Sequel,2014-10-13,75.0,True,Linux;macOS;PC;PlayStation 3;Xbox 360;Android
+19301,Counter-Strike,2000-11-01,88.0,True,Xbox;Linux;macOS;PC
+13535,Left 4 Dead,2008-11-17,89.0,True,PC;Xbox 360;macOS
+11142,BioShock 2 Remastered,2016-09-15,0.0,True,PlayStation 4;macOS;PC;Xbox One;Nintendo Switch
+3747,Metal Gear Solid V: Ground Zeroes,2014-03-18,80.0,False,Xbox 360;PC;PlayStation 3;PlayStation 4;Xbox One
+274755,Hades,2020-09-17,93.0,False,PlayStation 5;Xbox Series S/X;PlayStation 4;Nintendo Switch;PC;Xbox One
+10141,NieR:Automata,2017-03-17,86.0,False,PlayStation 4;Nintendo Switch;PC;Xbox One
+108,Mortal Kombat X,2015-04-07,76.0,True,PC;Xbox One;PlayStation 4
+4166,Mass Effect,2007-11-16,89.0,False,PC;Xbox One;Xbox 360;PlayStation 3
+3636,The Last Of Us Remastered,2014-07-29,95.0,True,PlayStation 4
+22509,Minecraft,2009-05-10,83.0,True,Android;PS Vita;PlayStation 4;PlayStation 3;Xbox 360;Nintendo 3DS;Nintendo Switch;macOS;PC;iOS;Wii U;Xbox One;Linux
+4513,Just Cause 2,2010-03-23,84.0,True,PC;Xbox 360;PlayStation 3;Xbox One
+326292,Fall Guys: Ultimate Knockout,2020-08-04,80.0,True,Xbox One;PlayStation 4;PC;Nintendo Switch;Xbox Series S/X
+11147,ARK: Survival Of The Fittest,2016-03-15,0.0,True,Android;Linux;macOS;PC;iOS
+46889,Monster Hunter: World,2018-01-26,89.0,True,PlayStation 4;Xbox One;PC
+3191,Mad Max,2015-08-31,73.0,True,PC;Xbox One;PlayStation 4;Xbox 360;Linux;macOS
+480,Resident Evil 7: Biohazard,2017-01-23,85.0,True,macOS;PlayStation 4;PC;Xbox One;Nintendo Switch
+25,Middle-earth: Shadow of War,2017-09-27,82.0,False,PC;Xbox One;PlayStation 4;Android
+613,Bastion,2011-07-20,86.0,False,PlayStation 4;PS Vita;Xbox One;PC;iOS;Linux;Nintendo Switch;Xbox 360;macOS
+17576,Batman: Arkham City - Game of the Year Edition,2012-09-07,91.0,False,PlayStation 4;Xbox 360;Xbox One;PlayStation 3;macOS;PC
+923,Titanfall 2,2016-10-28,87.0,True,Xbox One;PlayStation 4;PC
+10989,Paladins,2016-09-15,78.0,True,macOS;PC;PlayStation 4;Xbox One;Nintendo Switch
+9810,ARK: Survival Evolved,2015-06-02,70.0,True,Nintendo Switch;Xbox One;PlayStation 4;Linux;macOS;PC;iOS
+3387,Bloodborne,2015-03-24,92.0,False,PlayStation 4
+10065,Cities: Skylines,2015-03-10,85.0,False,Xbox One;PC;macOS;Linux;Nintendo Switch;PlayStation 4
+3254,Journey,2012-03-13,92.0,True,PC;iOS;PlayStation 4;PlayStation 3
+13627,Undertale,2015-09-14,92.0,False,Xbox Series S/X;Nintendo Switch;Xbox One;PC;macOS;Linux;PlayStation 4;PS Vita
+17572,Batman: Arkham Asylum Game of the Year Edition,2010-03-26,91.0,False,PlayStation 3;PC;PlayStation 4;Xbox 360
+9743,Unturned,2014-07-07,0.0,True,PlayStation 4;Linux;macOS;PC;Nintendo Switch;Xbox One
+45969,Warhammer: Vermintide 2,2018-03-08,82.0,True,Xbox One;PC;PlayStation 4
+13910,XCOM: Enemy Unknown,2012-10-09,89.0,True,PC;Android;iOS;Xbox 360;PlayStation 3;macOS
+13554,Fallout,1997-09-30,0.0,False,Classic Macintosh;PC;Linux;macOS
+23585,Far Cry 5,2018-03-27,80.0,True,PlayStation 4;PC;Xbox One
+1416,Mafia II,2010-08-24,77.0,True,PC;PlayStation 3;Xbox 360;Xbox One
+18240,Brothers: A Tale of Two Sons,2013-08-07,90.0,True,PlayStation 3;Xbox One;iOS;Nintendo Switch;Xbox 360;PlayStation 4;Android;PC
+3687,Watch Dogs,2014-05-27,77.0,True,Xbox One;Wii U;Xbox 360;PlayStation 3;PlayStation 4;PC
+5525,Brutal Legend,2009-10-12,80.0,True,Xbox 360;PlayStation 3;Xbox One;iOS;PC;Linux;macOS
+51329,Shadow of the Tomb Raider,2018-09-14,78.0,False,PlayStation 4;PC;Xbox One;macOS;Linux
+2743,Heavy Rain,2010-02-17,80.0,False,PC;PlayStation 4;PlayStation 3
+28179,SEGA Mega Drive and Genesis Classics,2010-06-01,76.0,True,PlayStation 4;macOS;Linux;Xbox One;Nintendo Switch;PC
+1450,INSIDE,2016-06-28,87.0,False,Nintendo Switch;PC;iOS;macOS;Xbox One;PlayStation 4
+28201,Metro Exodus,2019-02-13,81.0,False,PC;PlayStation 5;Xbox One;PlayStation 4
+50734,Sekiro: Shadows Die Twice,2019-03-22,90.0,False,Xbox One;PC;PlayStation 4
+2361,Psychonauts,2005-04-01,87.0,False,PlayStation 3;Xbox One;iOS;PC;macOS;Linux;Xbox 360;PlayStation 2;PlayStation 4;Xbox
+9830,Brawlhalla,2014-04-30,0.0,True,Xbox One;Android;iOS;PC;macOS;Nintendo Switch;PlayStation 4
+4280,Max Payne 3,2012-05-15,87.0,True,PlayStation 3;PC;Xbox 360;macOS
+2819,Firewatch,2016-02-08,81.0,False,macOS;Linux;Nintendo Switch;PlayStation 4;Xbox One;PC
+3931,Saints Row IV,2013-08-20,86.0,True,PlayStation 3;PC;Xbox One;PlayStation 4;Xbox 360;Linux
+58616,Assassin's Creed Odyssey,2018-10-05,85.0,False,PlayStation 4;PC;Xbox One;Nintendo Switch
+2093,No Man's Sky,2016-08-09,75.0,True,Nintendo Switch;Xbox One;PC;PlayStation 4;PlayStation 5
+8488,Tom Clancy's Rainbow Six Siege,2015-12-01,75.0,True,Xbox One;PC;PlayStation 4;Xbox Series S/X;PlayStation 5
+28568,Assassin's Creed II,2009-11-17,89.0,False,PlayStation 4;macOS;Xbox 360;PlayStation 3;Xbox One;PC
+3556,Alien: Isolation,2014-10-05,81.0,False,PC;Xbox One;Nintendo Switch;Android;iOS;PlayStation 4
+4223,The Darkness II,2012-02-07,77.0,True,PlayStation 3;macOS;PC;Xbox 360;Xbox One
+262382,Disco Elysium,2019-10-14,91.0,False,PC;macOS;Xbox One;Nintendo Switch;PlayStation 4;Xbox Series S/X;PlayStation 5
+326243,Elden Ring,2022-02-25,95.0,True,PC;Xbox One;PlayStation 4;Xbox Series S/X;PlayStation 5
+28154,Cuphead,2017-09-29,87.0,False,PlayStation 4;Nintendo Switch;Xbox One;macOS;PC
+58654,Hitman 2,2018-11-13,83.0,True,Xbox One;PC;PlayStation 4
+3678,War Thunder,2013-08-15,81.0,True,Xbox One;PC;macOS;Linux;PlayStation 4
+2235,Batman: Arkham Origins,2013-10-25,74.0,True,PlayStation 3;PC;Android;Xbox 360
+4502,Darksiders,2010-01-05,83.0,False,PC;PlayStation 3;Xbox One;Xbox 360;Nintendo Switch
+11052,Titan Quest Anniversary Edition,2016-08-31,0.0,True,PC
+28153,Assassin's Creed Origins,2017-10-27,81.0,False,Xbox One;PC;PlayStation 4
+58777,DOOM Eternal,2020-03-19,86.0,True,PC;PlayStation 4;Xbox One;Nintendo Switch;PlayStation 5
+356714,Among Us,2018-07-25,82.0,True,Android;Nintendo Switch;PC;iOS;PlayStation 4;PlayStation 5;Xbox One
+58751,Halo Infinite,2021-12-08,84.0,True,Xbox One;PC;Xbox Series S/X
+10340,Crusader Kings II,2012-02-13,82.0,True,PC;macOS;Linux
+1010,Transistor,2014-05-20,83.0,False,Nintendo Switch;PlayStation 4;PC;iOS;macOS;Linux
+1682,The Wolf Among Us,2013-10-10,82.0,False,PS Vita;PlayStation 4;Xbox One;iOS;PC;Android;Xbox 360;macOS
+998,Battlefield 1,2016-10-21,88.0,True,Xbox One;PC;PlayStation 4
+3876,Deus Ex: Human Revolution - Director's Cut,2013-10-22,91.0,False,Wii U;PC;macOS;Xbox 360;PlayStation 3
+2792,Layers of Fear,2016-02-16,72.0,False,PlayStation 4;Linux;macOS;PC;iOS;Xbox One
+3497,Far Cry 4,2014-11-18,80.0,True,PlayStation 4;PlayStation 3;PC;Xbox One;Xbox 360
+4003,GRID 2,2013-05-27,80.0,True,PlayStation 3;Xbox 360;macOS;PC
+13461,Resident Evil 5,2009-03-05,86.0,True,PlayStation 4;Nintendo Switch;Xbox 360;PC;Xbox One;PlayStation 3
+1256,XCOM 2,2016-02-04,88.0,True,Nintendo Switch;macOS;PC;PlayStation 4;Linux
+17959,Ori and the Blind Forest: Definitive Edition,2016-04-27,88.0,False,Xbox One;PC;Nintendo Switch;Xbox 360
+18613,Counter-Strike: Condition Zero,2004-03-01,65.0,True,PC;macOS;Linux
+15002,The Stanley Parable,2013-10-17,88.0,False,PC;macOS;Linux
+4527,Call of Duty: Modern Warfare 2,2009-11-10,86.0,True,PlayStation 3;macOS;PC;Xbox One;Xbox 360
+12024,Insurgency,2014-01-22,74.0,True,macOS;PC;Linux
+22571,Black Desert Online,2014-12-01,73.0,True,Xbox One;PC;PlayStation 4
+4599,Saints Row 2,2008-10-14,78.0,True,Linux;PC;PlayStation 3;Xbox 360;Xbox One
+13268,Amnesia: A Machine for Pigs,2013-09-09,72.0,False,Linux;macOS;PC
+13305,Assassin’s Creed III,2012-10-30,80.0,True,Wii U;Xbox 360;PlayStation 3;Xbox One;PlayStation 4;PC
+19590,Ori and the Blind Forest,2015-03-10,88.0,False,Xbox 360;Xbox One;PC
+28172,Kingdom Come: Deliverance,2018-02-13,71.0,False,PlayStation 4;Xbox One;PC
+10297,Sid Meier’s Civilization VI,2016-10-20,88.0,True,iOS;PC;macOS;PlayStation 4;Xbox One;Nintendo Switch;Linux
+10560,Total War: SHOGUN 2,2011-03-14,90.0,True,macOS;PC;Linux
+3853,Trine 2: Complete Story,2013-06-05,84.0,True,PlayStation 4;Nintendo Switch;PC;Linux;macOS
+4544,Red Dead Redemption,2010-05-18,95.0,True,PlayStation 4;PC;Xbox Series S/X;PlayStation 5;Nintendo Switch;Xbox One;Xbox 360;PlayStation 3
+3168,SOMA,2015-09-21,84.0,False,PlayStation 4;Xbox One;PC;macOS;Linux
+51325,The Last of Us Part II,2020-06-19,93.0,False,PlayStation 4;PlayStation 5
+11435,Viscera Cleanup Detail: Shadow Warrior,2013-09-26,0.0,True,macOS;PC
+10061,Watch Dogs 2,2016-11-28,79.0,True,Xbox One;PlayStation 4;PC
+1090,This War of Mine,2014-11-14,83.0,False,Android;PS Vita;Nintendo Switch;Linux;macOS;PC;iOS
+3766,Thief,2014-02-25,70.0,False,PlayStation 4;PlayStation 3;Xbox 360;Xbox One;macOS;PC
+4013,Call of Juarez: Gunslinger,2013-05-14,79.0,False,PlayStation 3;PC;Nintendo Switch;Xbox 360;Xbox One
+432,Grand Theft Auto III,2001-10-22,93.0,True,macOS;PC;iOS;Android;PlayStation 4;PlayStation 2;Xbox
+28202,Wolfenstein II: The New Colossus,2017-10-25,86.0,False,PlayStation 4;PC;Nintendo Switch;Xbox One
+11726,Dead Cells,2018-08-07,88.0,False,Xbox One;Nintendo Switch;PlayStation 4;macOS;Linux;iOS;PC
+3990,The Last Of Us,2013-06-14,95.0,False,PlayStation 3;PlayStation 4
+17352,Killing Floor,2009-05-14,72.0,True,PC;Linux;macOS
+952,Shadowrun Returns,2013-07-24,76.0,False,PC;macOS;Android;Linux;iOS
+906,Call of Duty: Black Ops III,2015-11-06,73.0,True,Xbox 360;Xbox One;PlayStation 3;PC;PlayStation 4
+1358,"Papers, Please",2013-08-08,85.0,False,Linux;macOS;PC;iOS;Android;PS Vita
+10073,Divinity: Original Sin 2,2017-09-14,95.0,True,PlayStation 4;Nintendo Switch;PC;Xbox One
+10548,Darksiders Warmastered Edition,2016-11-29,79.0,False,Xbox One;PC;Nintendo Switch;Wii U;PlayStation 4
+18272,Magicka,2011-01-25,74.0,True,Android;PC
+3474,Lara Croft and the Temple of Osiris,2014-12-08,73.0,True,Xbox One;PlayStation 4;PC
+43877,Quake Champions,2017-08-22,0.0,True,PC
+28492,Dead Island,2011-09-06,74.0,False,PlayStation 3;Xbox 360;PC
+10419,Subnautica,2018-01-23,83.0,True,PlayStation 4;Xbox Series S/X;PC;macOS;Nintendo Switch;Xbox One;PlayStation 5
+59359,A Plague Tale: Innocence,2019-05-13,82.0,False,PC;Xbox Series S/X;PlayStation 4;PlayStation 5;Xbox One;Nintendo Switch
+3757,South Park: The Stick of Truth,2014-03-04,84.0,False,Xbox One;PlayStation 4;PlayStation 3;PC;Nintendo Switch;Xbox 360
+559,Fallout Shelter,2015-06-15,63.0,True,PlayStation 4;Xbox One;PC;Nintendo Switch;Android;iOS
+8146,Assassin's Creed Unity,2014-11-11,71.0,True,PlayStation 4;PC;Xbox One
+56184,Resident Evil 4 (2005),2005-01-11,83.0,False,GameCube;Android;PC;iOS;PlayStation 4;PlayStation 2;Wii
+3740,FEZ,2012-04-13,91.0,False,Nintendo Switch;PlayStation 3;Xbox 360;PlayStation 4;PS Vita;iOS;PC;macOS;Linux
+19542,Half-Life: Blue Shift,2001-06-01,71.0,False,Linux;macOS;PC;Dreamcast
+1244,Darkest Dungeon,2016-01-18,84.0,False,PC;macOS;Nintendo Switch;Linux;PS Vita;Xbox One;PlayStation 4
+21265,Half-Life: Opposing Force,1999-11-19,0.0,True,Linux;macOS;PC
+4954,Castle Crashers,2008-08-27,84.0,True,PlayStation 3;Xbox 360;Nintendo Switch;PC;macOS
+2572,DiRT Rally,2015-12-07,86.0,True,PlayStation 4;PC;macOS;Xbox One;Linux
+15859,Star Wars: Knights of the Old Republic,2003-07-15,88.0,False,Xbox 360;Xbox;Nintendo Switch;Xbox One;Android;iOS;PC;macOS
+14348,Dying Light: The Following - Enhanced Edition,2015-01-26,87.0,True,macOS;PC;Linux;Xbox One;PlayStation 4
+865,Call of Duty: Black Ops,2010-11-09,81.0,True,macOS;PC;iOS;Nintendo DS;PlayStation 3;Xbox One;Wii;Xbox 360
+857,Halo: The Master Chief Collection,2014-11-11,85.0,True,PC;Xbox One
+9475,Don't Starve,2013-04-22,79.0,True,PlayStation 3;PS Vita;Linux;Wii U;Xbox One;PC;macOS;PlayStation 4
+4639,Dragon Age: Origins,2009-11-03,91.0,False,Xbox 360;Xbox One;macOS;PlayStation 3;PC
+3015,Chivalry: Medieval Warfare,2012-10-16,79.0,True,PC;Xbox One;Xbox 360;PlayStation 3;PlayStation 4;macOS;Linux
+19384,The Binding of Isaac,2011-09-28,84.0,False,macOS;PC
+18241,DmC: Devil May Cry,2013-01-15,85.0,False,PlayStation 3;PC;Xbox One;PlayStation 4;Xbox 360
+3486,Syberia,2002-01-09,82.0,False,PlayStation 2;Nintendo DS;Nintendo Switch;macOS;PC;iOS;PlayStation 3;Xbox 360;Android
+6617,Quantum Break,2016-04-05,66.0,False,PC;Xbox One
+4550,Dead Space 2,2011-01-25,87.0,True,Xbox 360;PC;Xbox One;PlayStation 3
+28623,Batman: Arkham City,2011-10-18,94.0,False,PC;PlayStation 3;Nintendo Switch;macOS;PlayStation 4;Xbox One;Xbox 360
+16112,Sleeping Dogs: Definitive Edition,2014-10-08,76.0,True,Xbox One;PC;macOS;PlayStation 4
+3932,The Bureau: XCOM Declassified,2013-08-20,66.0,False,Xbox 360;PC;PlayStation 3;macOS
+58755,Devil May Cry 5,2019-03-08,88.0,True,PlayStation 5;Xbox One;PC;PlayStation 4
+5562,Fallout 3,2008-10-28,91.0,False,Xbox 360;PC;Xbox One;PlayStation 3
+3771,Rayman Legends,2013-08-29,89.0,True,Xbox One;Xbox 360;PlayStation 3;PC;Nintendo Switch;Wii U;PlayStation 4;PS Vita
+3028,Beyond: Two Souls,2013-10-07,73.0,True,PC;PlayStation 3;PlayStation 4
+492,Yakuza 0,2015-03-12,85.0,True,PC;PlayStation 4;PlayStation 3;Xbox One
+29338,Days Gone,2019-04-26,74.0,True,PC;PlayStation 4
+17875,Guacamelee! Super Turbo Championship Edition,2014-07-01,86.0,True,PlayStation 4;Xbox 360;Wii U;Nintendo Switch;PC;Xbox One
+1169,Mafia III,2016-10-06,62.0,True,macOS;PC;Xbox One;PlayStation 4
+3842,Battlefield 4,2013-10-29,81.0,True,PC;Xbox One;PlayStation 4;Xbox 360;PlayStation 3
+7819,SUPERHOT,2016-02-24,82.0,True,PlayStation 4;Nintendo Switch;macOS;Xbox One;Linux;Web;PC
+42187,The Sims 4,2014-09-02,67.0,True,PlayStation 4;macOS;PC;Xbox One;Xbox Series S/X
+42,What Remains of Edith Finch,2017-04-23,89.0,False,Xbox One;iOS;PC;Nintendo Switch;PlayStation 4
+17126,Torchlight II,2012-09-20,88.0,True,PC;PlayStation 4;Nintendo Switch;Xbox One;macOS;Linux
+817974,Wallpaper Engine,2016-10-10,0.0,False,Android;PC
+1959,Goat Simulator,2014-04-01,62.0,True,Xbox One;Xbox 360;PlayStation 3;PlayStation 4;Android;iOS;macOS;Linux;PC
+5703,Uncharted 3: Drake's Deception,2011-11-01,92.0,False,PlayStation 4;PlayStation 3
+21924,Call of Duty: WWII,2017-11-03,77.0,True,PlayStation 4;Xbox One;PC
+28199,Ori and the Will of the Wisps,2020-03-10,91.0,False,Xbox One;PC;Nintendo Switch;Xbox Series S/X
+19365,Homefront,2011-03-15,70.0,True,PlayStation 3;PC;Xbox 360
+3408,Hotline Miami 2: Wrong Number,2015-03-09,72.0,False,Android;PS Vita;PlayStation 4;PlayStation 3;Linux;macOS;PC;Nintendo Switch;iOS
+3892,Sniper Elite V2,2012-05-01,66.0,True,PC;Wii U;Xbox 360;PlayStation 3
+2623,Resident Evil 6,2012-10-02,67.0,True,Web;Nintendo Switch;PC;Xbox One;PlayStation 4;Xbox 360;PlayStation 3
+5159,Resident Evil 2 (1998),1998-01-21,90.0,False,Dreamcast;GameCube;Nintendo 64;PC;PlayStation
+1774,Grim Fandango Remastered,2015-01-26,84.0,False,PC;PlayStation 4;PS Vita;Xbox One;Nintendo Switch;iOS;Linux;macOS;Android
+2873,The Witness,2016-01-25,87.0,True,Android;macOS;PC;iOS;Xbox One;PlayStation 4
+28559,Dragon Age: Inquisition,2014-11-18,86.0,True,Xbox 360;PlayStation 3;PlayStation 4;Xbox One;PC
+9609,Euro Truck Simulator 2,2012-10-19,79.0,False,Linux;macOS;PC
+2733,Broforce,2015-10-15,83.0,True,Nintendo Switch;PlayStation 4;Linux;macOS;PC
+624,FTL: Faster Than Light,2012-09-14,84.0,False,PC;Linux;iOS;macOS
+274762,The Outer Worlds,2019-10-25,80.0,False,PlayStation 4;PC;Nintendo Switch;Xbox One
+9600,The Forest,2018-04-30,0.0,True,PC;PlayStation 4
+11276,Call of Duty: Modern Warfare 3,2011-11-08,85.0,True,PC;macOS;Wii;Xbox 360;PlayStation 3;iOS;Xbox One
+22511,The Legend of Zelda: Breath of the Wild,2017-03-03,97.0,False,Nintendo Switch;Wii U
+16209,Kingdom: Classic,2015-09-21,74.0,False,Linux;macOS;PC
+11686,POSTAL 2,2003-04-13,59.0,True,macOS;PC;Linux
+58753,Forza Horizon 4,2018-10-02,90.0,True,PC;Xbox One;Xbox Series S/X
+15834,The Walking Dead: Season 2,2013-12-16,80.0,False,macOS;PC;iOS;Android;PS Vita;PlayStation 3;Xbox 360;Nintendo Switch;PlayStation 4;Xbox One
+23322,Surviving Mars,2018-03-14,75.0,False,PlayStation 4;Xbox One;PC;macOS;Linux
+58617,Borderlands 3,2019-09-13,83.0,True,Nintendo Switch;PC;Xbox One;PlayStation 4;PlayStation 5;Xbox Series S/X
+3371,Dark Souls II: Scholar of the First Sin,2015-04-01,79.0,True,PlayStation 4;Xbox One;PC
+22781,Syberia 2,2004-03-30,80.0,False,iOS;Xbox;Android;PlayStation 3;PlayStation 2;Xbox 360;Nintendo Switch;macOS;PC
+16113,Sleeping Dogs,2012-08-14,81.0,True,PC;Xbox 360;PlayStation 3
+4440,Deus Ex: Human Revolution,2011-08-22,89.0,False,PlayStation 3;Xbox One;PC;macOS;Xbox 360
+18336,Alan Wake's American Nightmare,2012-02-22,73.0,False,Xbox 360;PC;Xbox One
+4101,Bayonetta,2009-06-23,90.0,False,PlayStation 4;PlayStation 3;Xbox 360;Wii U;PC;Xbox One;Nintendo Switch
+13194,To the Moon,2011-01-10,81.0,False,PC;Nintendo Switch;Android;Linux;iOS;macOS
+22121,Celeste,2018-01-25,91.0,False,Xbox One;PC;macOS;Nintendo Switch;PlayStation 4;Linux
+16343,A Story About My Uncle,2014-05-28,73.0,False,Linux;macOS;PC
+14446,Call of Duty: Black Ops II,2012-11-13,74.0,True,Wii U;Xbox One;Xbox 360;PlayStation 3;PC
+752,SMITE,2015-08-19,83.0,True,PlayStation 4;Nintendo Switch;Xbox One;macOS;PC
+45821,Frostpunk,2018-04-24,85.0,False,Xbox One;Nintendo Switch;PlayStation 4;PC
+20406,Team Fortress Classic,1999-04-01,0.0,True,Linux;macOS;PC
+306124,Borderlands Game of the Year Enhanced,2019-04-03,78.0,True,PC;Nintendo Switch;PlayStation 4;Xbox One
+2728,Tom Clancy’s The Division,2016-03-07,80.0,True,PC;Xbox One;PlayStation 4
+15426,Black Mesa,2020-03-06,86.0,True,PC;Linux
+12756,"Warhammer 40,000: Space Marine",2011-09-05,74.0,True,PC;PlayStation 3;Xbox 360
+4094,Metal Gear Rising: Revengeance,2013-02-19,83.0,False,PlayStation 3;Xbox 360;PC;Android;Xbox One
+4123,Batman: Arkham Asylum,2009-08-25,91.0,False,Nintendo Switch;macOS;PC;PlayStation 4;PlayStation 3;Xbox 360;Xbox One
+4573,PAYDAY The Heist,2011-10-18,76.0,True,PC;PlayStation 3
+2553,Ratchet & Clank,2016-04-12,85.0,False,PlayStation 4
+42895,Assassin's Creed Syndicate,2015-10-23,74.0,True,PC;Xbox One;PlayStation 4
+58550,Ghost of Tsushima,2020-07-17,83.0,False,PlayStation 4;PC;PlayStation 5
+14512,Age of Wonders III,2014-03-31,80.0,True,PC;macOS;Linux
+3631,inFAMOUS Second Son,2014-03-21,80.0,False,PlayStation 4
+9966,Dead by Daylight,2016-06-14,72.0,True,Nintendo Switch;PC;PlayStation 4;Xbox One;PlayStation 5
+30899,Mafia: The City of Lost Heaven,2002-08-28,88.0,False,PlayStation 2;PC;Xbox
+18614,Half-Life: Source,2004-06-01,0.0,True,Linux;PC;macOS
+2597,LEGO The Lord of the Rings,2012-10-30,80.0,True,PC;iOS;Nintendo DS;PlayStation 3;Nintendo 3DS;Xbox 360;Wii;PS Vita;Android
+2115,Overcooked,2016-08-01,81.0,True,PlayStation 4;Nintendo Switch;Xbox One;PC
+17857,S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-19,82.0,True,Xbox Series S/X;PC;Xbox One;Nintendo Switch;PlayStation 4
+9671,Rust,2018-02-09,66.0,True,PlayStation 4;Xbox One;PC;macOS;Linux
+50778,A Way Out,2018-03-23,78.0,True,PC;Xbox One;PlayStation 4
+28152,STAR WARS Battlefront II,2017-11-17,74.0,True,PlayStation 4;PC;Xbox One
+13247,Human: Fall Flat,2016-07-22,70.0,True,Android;Linux;macOS;PC;iOS;PlayStation 4;Xbox One;Nintendo Switch
+13913,Deus Ex: Game of the Year Edition,2000-06-22,90.0,True,macOS;PlayStation 2;PlayStation 3;PC
+46956,Doki Doki Literature Club!,2017-09-22,78.0,False,Linux;PC;macOS
+3209,Until Dawn,2015-08-25,79.0,False,PC;PlayStation 4;PlayStation 3
+2518,Max Payne,2001-07-25,89.0,False,PC;PlayStation 3;Xbox;Classic Macintosh;PlayStation 2;Xbox 360;PlayStation 4
+19569,Hitman: Blood Money,2006-05-29,82.0,False,Xbox;PlayStation 4;PlayStation 3;PlayStation 2;PC;Xbox 360
+11312,The Long Dark,2014-09-22,76.0,True,PC;PlayStation 4;Xbox One;Nintendo Switch;macOS;Linux
+14962,Dark Souls: Prepare To Die Edition,2012-08-23,85.0,True,Xbox 360;PlayStation 3;PC
+750,FINAL FANTASY XV,2016-11-29,82.0,False,PlayStation 4;PC;Xbox One
+18183,Company of Heroes,2006-09-11,93.0,True,PC;iOS
+5193,Oddworld: Abe's Oddysee,1997-09-19,85.0,True,PlayStation 5;PlayStation 4;PC;PlayStation
+250,The Binding of Isaac: Rebirth,2014-11-03,86.0,False,Xbox One;macOS;Linux;Nintendo Switch;Nintendo 3DS;Wii U;PlayStation 4;PS Vita;iOS;PC
+14016,Tropico 4,2011-08-24,78.0,False,Xbox 360;macOS;PC;Xbox One
+670682,Counter-Strike: Condition Zero Deleted Scenes,2004-03-23,0.0,False,PC;macOS;Linux
+274480,Mortal Kombat 11,2019-04-22,82.0,True,Nintendo Switch;Xbox One;PC;PlayStation 4;Xbox Series S/X;PlayStation 5
+3368,Titan Souls,2015-04-13,74.0,False,PlayStation 4;PS Vita;PC;macOS
+16359,Divinity: Original Sin - Enhanced Edition,2015-10-27,94.0,True,PC;Linux;macOS;PlayStation 4;Xbox One
+452638,Stray,2022-07-19,82.0,False,macOS;Xbox One;Nintendo Switch;PC;Xbox Series S/X;PlayStation 5;PlayStation 4
+3346,Wolfenstein: The Old Blood,2015-05-04,76.0,True,Xbox One;PlayStation 4;PC
+17803,Ryse: Son of Rome,2013-11-22,61.0,True,Xbox One;PC
+51610,Dark Souls: Remastered,2018-05-23,84.0,True,Nintendo Switch;PC;PlayStation 4;Xbox One
+10449,Darksiders II Deathinitive Edition,2015-11-05,75.0,True,PlayStation 4;Xbox One;Nintendo Switch;PC
+15858,Star Wars: Knights of the Old Republic II – The Sith Lords,2004-12-06,85.0,False,Xbox;Xbox 360;Linux;macOS;PC;Nintendo Switch;Android
+9653,Hacknet,2015-08-11,82.0,True,PC;macOS;Linux
+19299,Fallout 2,1998-09-30,86.0,False,macOS;PC
+3554,The Evil Within,2014-10-12,68.0,False,PlayStation 3;PlayStation 4;Xbox 360;PC;Xbox One
+9793,Guns of Icarus Online,2012-09-30,64.0,True,Linux;PC;macOS
+13628,Dear Esther: Landmark Edition,2017-02-14,0.0,False,PlayStation 4;Xbox One;PC;macOS
+10090,Beholder,2016-11-08,75.0,False,Nintendo Switch;iOS;Xbox One;PC;macOS;Linux;PlayStation 4;Android
+12320,Prison Architect,2015-10-05,83.0,False,Xbox One;PC;macOS;Linux;Nintendo Switch;PlayStation 4
+455597,It Takes Two,2021-03-26,88.0,True,PlayStation 5;Xbox Series S/X;PlayStation 4;PC;Nintendo Switch;Xbox One
+50781,Sea of Thieves,2018-03-20,68.0,True,PC;PlayStation 5;Xbox Series S/X;Xbox One
+17380,Sid Meier's Civilization III Complete,2001-10-29,90.0,True,PC
+10092,Minion Masters,2019-05-24,0.0,True,Xbox One;PC
+19451,Fallout 3: Game of the Year Edition,2009-10-13,91.0,False,Xbox 360;PlayStation 3;PC
+4729,Assassin's Creed,2007-11-13,80.0,False,PC;PlayStation 3;Xbox 360;Xbox One
+58813,Resident Evil 2,2019-01-25,91.0,False,Xbox One;Nintendo Switch;PlayStation 5;PlayStation 4;PC;macOS
+15274,Jotun: Valhalla Edition,2015-09-29,79.0,False,PlayStation 4;Nintendo Switch;PC;Xbox One;Linux;macOS
+3427,Murdered: Soul Suspect,2014-06-03,59.0,False,Xbox One;PC;PlayStation 4;PlayStation 3;Xbox 360
+3729,LEGO The Hobbit,2014-04-08,70.0,True,PC;PlayStation 3;Nintendo 3DS;Xbox 360;Xbox One;Wii U;PlayStation 4;PS Vita;macOS
+12569,Starbound,2016-07-22,81.0,True,Linux;PC;macOS
+5161,Braid,2008-08-06,92.0,False,PlayStation 3;Xbox One;iOS;PC;macOS;Linux;Xbox 360
+10064,Assassin’s Creed Brotherhood,2010-11-16,88.0,True,PlayStation 3;macOS;PC;Xbox 360;Xbox One;PlayStation 4
+19452,F.E.A.R.,2005-10-18,88.0,True,PC;PlayStation 3;Xbox 360
+3449,Resident Evil,1996-03-22,91.0,False,SEGA Saturn;PC;PlayStation
+829,Killing Floor 2,2016-11-18,75.0,True,PlayStation 4;Xbox One;PC
+3912,Sanctum 2,2013-05-15,77.0,True,macOS;Linux;PlayStation 3;Xbox 360;PC
+14690,Trine Enchanted Edition,2009-07-02,80.0,True,Nintendo Switch;PlayStation 4;macOS;PC;Linux
+10001,Serious Sam Fusion 2017 (beta),2017-03-20,0.0,True,PC;macOS;Linux
+14062,Red Orchestra 2: Heroes of Stalingrad with Rising Storm,2011-09-13,76.0,True,PC
+5578,GRID (2008),2008-06-03,87.0,True,Xbox 360;Nintendo DS;PC;PlayStation 3;Xbox One
+678,Neverwinter,2013-06-20,74.0,True,PlayStation 4;Xbox One;PC
+2574,Enter the Gungeon,2016-04-04,84.0,True,PlayStation 4;Nintendo Switch;Linux;macOS;PC;Xbox One
+17174,Resident Evil Revelations 2,2015-02-24,72.0,True,PC;Nintendo Switch;Xbox One;Xbox 360;PlayStation 3;PlayStation 4;PS Vita
+19375,Far Cry 3: Blood Dragon,2013-04-30,81.0,False,PlayStation 3;PC;PlayStation 4;Xbox 360;Xbox One
+3300,The Elder Scrolls Online: Tamriel Unlimited,2015-03-17,77.0,True,macOS;PC;Xbox One;PlayStation 4
+47137,Fortnite Battle Royale,2017-09-26,0.0,True,PlayStation 4;Xbox One;iOS;PC;Android;Xbox Series S/X;PlayStation 5;Nintendo Switch
+397477,Resident Evil 3,2020-04-02,80.0,True,PlayStation 5;Xbox Series S/X;PC;Nintendo Switch;PlayStation 4;Xbox One
+442854,Mafia: Definitive Edition,2020-09-25,78.0,False,PC;Xbox Series S/X;Xbox One;PlayStation 4
+2047,Lords of the Fallen (2014),2014-10-28,73.0,True,Android;PlayStation 4;PC;iOS;Xbox One
+14317,Endless Space - Collection,2012-07-04,77.0,True,PC;macOS
+4179,Darksiders II,2012-08-14,83.0,False,PC;Wii U;PlayStation 3;Nintendo Switch;Xbox 360
+3697,Serious Sam 3: BFE,2011-11-22,72.0,True,PlayStation 3;Xbox 360;Linux;macOS;PC
+53341,Jet Set Radio,2000-06-29,94.0,False,iOS;Xbox 360;Android;Game Boy Advance;Dreamcast;PlayStation 3;PS Vita;PC
+442855,Mafia II: Definitive Edition,2020-05-19,65.0,False,Xbox One;PlayStation 4;PC
+11974,Mark of the Ninja,2012-09-07,91.0,False,Nintendo Switch;PC;Linux;macOS;Xbox 360
+12019,BattleBlock Theater,2013-04-03,85.0,True,Xbox 360;Xbox One;macOS;PC;Linux
+2300,Drawful 2,2016-06-20,74.0,True,Xbox One;Nintendo Switch;macOS;PlayStation 4;PC
+2166,Game of Thrones - A Telltale Games Series,2014-12-02,66.0,False,Xbox 360;PlayStation 3;Xbox One;PlayStation 4;Android;PC;macOS;iOS
+295021,Orwell: Keeping an Eye On You,2016-10-27,77.0,False,Android;iOS;PC;macOS;Linux
+28121,Slay the Spire,2019-01-22,86.0,False,Xbox One;iOS;PC;macOS;Linux;Nintendo Switch;PlayStation 4;Android
+259801,Final Fantasy VII,2020-04-10,87.0,False,PC;PlayStation 5;PlayStation 4
+9551,Deep Rock Galactic,2020-05-13,84.0,True,PC;PlayStation 4;PlayStation 5
+4000,Remember Me,2013-06-04,65.0,False,PC;PlayStation 3;Xbox 360
+4032,Dragon's Dogma: Dark Arisen,2013-04-23,81.0,True,Xbox One;PC;Nintendo Switch;Xbox 360;PlayStation 3;PlayStation 4
+685577,Vampire Survivors,2022-10-20,0.0,False,Nintendo Switch;Android;PC;iOS;Xbox One;Web
+19600,Far Cry 2,2008-10-21,85.0,True,Xbox 360;PC;PlayStation 3;Xbox One
+10040,Stellaris,2016-05-08,78.0,True,PC;macOS;Linux
+295,Oxenfree,2016-01-14,80.0,False,Nintendo Switch;Xbox One;PlayStation 4;iOS;PC;Linux;Android;macOS
+7381,ABZU,2016-08-02,83.0,False,PlayStation 4;Nintendo Switch;Xbox One;PC
+3647,Child of Light,2014-04-29,77.0,False,PlayStation 3;PlayStation 4;PS Vita;Wii U;Xbox 360;Xbox One;PC;Nintendo Switch
+2100,Tales from the Borderlands: A Telltale Game Series,2015-10-21,85.0,False,PlayStation 3;macOS;PC;iOS;Nintendo Switch;Android;PlayStation 4;Xbox 360;Xbox One
+3350,Broken Age,2014-01-28,81.0,False,Android;PS Vita;Nintendo Switch;Linux;macOS;PC;iOS;PlayStation 4;Xbox One
+5687,The Playroom,2013-11-15,0.0,False,PlayStation 4
+5565,F.E.A.R. 3,2011-03-25,74.0,True,PC;PlayStation 3;Xbox 360
+9575,VRChat,2017-02-01,0.0,True,PC
+452649,Resident Evil: Village,2021-05-07,83.0,True,Xbox Series S/X;PC;iOS;PlayStation 5;Nintendo Switch;Xbox One;PlayStation 4
+3290,PlanetSide 2,2012-11-20,84.0,True,PlayStation 4;PC
+5564,F.E.A.R. 2: Project Origin,2009-02-10,79.0,True,PC;PlayStation 3;Xbox 360
+894,Destiny,2014-09-09,76.0,True,PlayStation 3;PlayStation 4;Xbox 360;Xbox One
+23557,Gwent: The Witcher Card Game,2018-10-23,80.0,True,Xbox One;iOS;PC;PlayStation 4;Android
+23587,Sonic Mania,2017-08-15,85.0,True,PlayStation 4;Xbox One;PC;Nintendo Switch
+42215,Dying Light,2015-01-27,74.0,False,Xbox One;PlayStation 4;Nintendo Switch;PC
+17037,Monaco: What's Yours Is Mine,2013-04-24,83.0,True,PC;Xbox 360;macOS;Linux
+13820,The Elder Scrolls III: Morrowind,2002-05-01,89.0,False,Xbox 360;Xbox;PC
+4882,Lara Croft and the Guardian of Light,2010-08-05,82.0,True,PC;PlayStation 3;Xbox 360;Android;iOS
+12929,The Talos Principle,2014-12-11,85.0,False,Xbox One;PlayStation 4;iOS;PC;macOS;Linux;Nintendo Switch;Android
+59313,Gris,2018-12-13,83.0,False,Android;macOS;PC;iOS;Xbox One;PlayStation 5;Xbox Series S/X;PlayStation 4;Nintendo Switch
+6879,The Flame in the Flood,2016-02-23,73.0,True,macOS;Xbox One;Nintendo Switch;PC;PlayStation 4
+4397,Battlefield 3,2011-10-25,86.0,True,PlayStation 3;Xbox One;PC;Xbox 360
+28110,Vampyr,2018-06-04,70.0,False,PlayStation 4;PC;Xbox One;Nintendo Switch
+3052,STAR WARS Battlefront,2015-11-17,73.0,True,Xbox One;PC;PlayStation 4
+41490,Divinity: Original Sin,2014-06-30,87.0,True,PlayStation 4;macOS;PC;Xbox One
+58494,Battlefield V,2018-11-20,77.0,True,PC;Xbox One;PlayStation 4
+4869,Tomb Raider: Underworld,2008-11-18,80.0,False,Xbox 360;Wii;macOS;PC;Nintendo DS;PlayStation 3
+248521,Valheim,2021-02-02,0.0,True,PC;Linux
+58764,Outer Wilds,2019-05-29,84.0,False,PlayStation 4;Nintendo Switch;Xbox One;PC
+3561,Spelunky,2012-07-04,90.0,True,PlayStation 3;Xbox 360;PC;PlayStation 4;PS Vita
+704634,Uncharted: Legacy of Thieves Collection,2022-01-28,0.0,False,PC;PlayStation 5
+4358,Assassin's Creed Revelations,2011-11-15,80.0,True,PlayStation 3;PC;Xbox 360;PlayStation 4;Xbox One
+10428,Heroes & Generals,2016-10-18,0.0,True,PC
+719,Deponia,2012-01-27,74.0,False,Nintendo Switch;iOS;PC;macOS;PlayStation 4;Xbox One;Linux
+17885,Overlord,2007-06-26,81.0,True,PC;macOS;Linux;Xbox 360
+16199,Killer is Dead - Nightmare Edition,2014-05-23,0.0,False,PC
+3635,Rogue Legacy,2013-06-27,85.0,False,PlayStation 4;Xbox 360;PC;iOS;PlayStation 3;PS Vita;Nintendo Switch
+29153,Max Payne 2: The Fall of Max Payne,2003-10-14,80.0,False,PC;Xbox;PlayStation 2
+19647,Crysis 2 - Maximum Edition,2011-03-22,0.0,True,PC
+34,Crash Bandicoot N. Sane Trilogy,2017-06-30,81.0,False,PC;Nintendo Switch;PlayStation 4;Xbox One
+13886,Star Wars: Battlefront II (2005),2005-10-30,78.0,True,Xbox;PSP;PlayStation 2;PC
+398423,Gothic Playable Teaser,2019-12-01,0.0,True,PC
+10293,Tabletop Simulator,2015-06-05,0.0,True,Linux;macOS;PC
+19491,Burnout Paradise: The Ultimate Box,2009-02-05,87.0,True,PC
+892,Dust: An Elysian Tail,2012-08-15,84.0,False,Xbox 360;iOS;PC;macOS;Linux;Nintendo Switch;PlayStation 4
+4347,DiRT Showdown,2012-05-24,74.0,True,Xbox 360;PC;PlayStation 3
+382,Sniper Elite 4,2017-02-13,78.0,True,PlayStation 5;Xbox Series S/X;PC;PlayStation 4;Nintendo Switch;Xbox One
+49,Persona 5,2016-09-15,93.0,False,PlayStation 3;PlayStation 4
+11279,Day of Defeat: Source,2005-09-26,80.0,True,Linux;macOS;PC
+58952,Life is Strange 2,2018-09-27,75.0,False,PlayStation 4;Linux;macOS;PC;Nintendo Switch;Xbox One
+5342,Medal of Honor,2010-10-12,72.0,True,PC;PlayStation 3;Xbox 360
+1259,Machinarium,2009-10-16,85.0,False,Android;PS Vita;macOS;PC;iOS;PlayStation 3;PlayStation 4;Xbox One;Linux;Nintendo Switch
+1758,Valiant Hearts: The Great War,2014-06-24,80.0,False,PlayStation 3;Xbox 360;Nintendo Switch;PC;iOS;Android;Xbox One;PlayStation 4
+4581,Crysis,2007-11-12,91.0,True,PlayStation 3;Xbox 360;PC
+44525,Yakuza Kiwami,2016-01-21,83.0,False,PlayStation 4;PC;Nintendo Switch;Xbox One;PlayStation 3
+19056,S.T.A.L.K.E.R.: Call of Pripyat,2009-10-02,80.0,True,Xbox Series S/X;PlayStation 4;PC;Xbox One;Nintendo Switch
+622492,Forza Horizon 5,2021-11-08,0.0,True,PC;iOS;Xbox One;PlayStation 5;Xbox Series S/X
+45970,The LEGO NINJAGO Movie Video Game,2017-09-22,70.0,True,PC;PlayStation 4;Nintendo Switch;Xbox One
+15566,Red Faction: Guerrilla,2009-06-02,82.0,True,Xbox 360;PC;PlayStation 3
+15829,Pillars of Eternity,2015-03-26,89.0,False,PlayStation 4;Xbox One;macOS;PC;Linux
+616765,Marvel's Guardians of the Galaxy,2021-10-26,0.0,False,Xbox One;Nintendo Switch;PC;PlayStation 4;Xbox Series S/X;PlayStation 5
+4439,Mass Effect 3,2012-03-05,90.0,False,PlayStation 3;Xbox One;PC;Wii U;Xbox 360
+19057,S.T.A.L.K.E.R.: Clear Sky,2008-08-22,75.0,True,PC;PlayStation 4;Xbox One;Nintendo Switch;Xbox Series S/X
+1789,The Swapper,2013-05-13,87.0,False,Wii U;Xbox One;macOS;PS Vita;PC;Linux;PlayStation 3;PlayStation 4
+324997,Baldur's Gate III,2023-08-03,97.0,True,macOS;PC;Xbox Series S/X;PlayStation 5
+15642,The Elder Scrolls IV: Oblivion Game of the Year Edition,2009-06-16,94.0,False,PC;Xbox 360;PlayStation 3
+3965,Binary Domain,2012-02-16,68.0,True,PC;PlayStation 3;Xbox 360
+10767,Shadow Tactics: Blades of the Shogun,2016-12-05,85.0,False,Xbox One;PlayStation 4;macOS;PC;Linux
+19592,Hitman 2: Silent Assassin,2002-10-01,87.0,False,PC;PlayStation 2;PlayStation 3;Xbox 360;Xbox;GameCube
+5636,Rage,2011-10-03,79.0,True,PlayStation 3;PC;Xbox 360;Xbox One
+5528,Call of Duty: World at War,2008-11-11,83.0,True,Xbox 360;PC;PlayStation 3;Nintendo DS;Xbox One;Wii
+884,Call of Duty: Modern Warfare Remastered,2016-10-05,86.0,True,Xbox One;PlayStation 4;PC
+58752,The Awesome Adventures of Captain Spirit,2018-06-25,77.0,False,PlayStation 4;Xbox One;PC
+9631,Sins of a Solar Empire: Rebellion,2012-06-12,82.0,True,PC
+38,Injustice 2,2017-05-09,88.0,True,Android;PlayStation 4;PC;Xbox One;iOS
+1140,World of Goo,2008-10-13,90.0,True,Android;Wii;Nintendo Switch;Linux;macOS;PC;iOS
+19410,Day of Defeat,2003-05-01,79.0,True,macOS;PC;Linux
+4491,Shadow of the Colossus (2011),2011-09-22,91.0,False,PlayStation 3
+3315,Magicka 2,2015-05-26,69.0,True,Linux;macOS;PC;PlayStation 4
+391399,Tell Me Why,2020-08-27,76.0,False,Xbox One;PC
+326251,Deathloop,2021-09-14,88.0,True,PlayStation 5;PC;Xbox Series S/X
+15317,Shadow Warrior,1997-05-13,73.0,True,PC;macOS;Linux
+9835,Outlast 2,2017-04-24,76.0,False,Xbox One;PlayStation 4;PC;Nintendo Switch
+5298,Tomb Raider: Legend,2006-04-06,82.0,False,Xbox;PSP;PlayStation 3;PC;GameCube;PlayStation 2;Xbox 360
+4535,Call of Duty 4: Modern Warfare,2007-11-05,92.0,True,PlayStation 4;PlayStation 3;Xbox 360;Wii;PC;Nintendo DS;Xbox One;macOS
+16787,Bully: Scholarship Edition,2008-03-04,72.0,True,PC;Xbox One;Wii;Xbox 360
+326252,Gears 5,2019-09-10,83.0,True,Xbox Series S/X;PC;Xbox One
+437059,Assassin's Creed Valhalla,2020-11-10,82.0,True,PC;Xbox One;PlayStation 5;PlayStation 4;Xbox Series S/X
+14606,Ricochet,2000-11-01,0.0,True,macOS;Linux;PC
+15714,Deponia: The Complete Journey,2014-06-03,0.0,False,Linux;PC;macOS;iOS
+2805,Street Fighter V,2016-02-15,74.0,True,PlayStation 4;PC
+10310,Robocraft,2014-07-08,0.0,True,macOS;PC;Linux
+4012,Resident Evil Revelations,2012-02-07,77.0,True,Xbox One;Xbox 360;Nintendo 3DS;Wii U;PlayStation 3;Nintendo Switch;PlayStation 4;PC
+58827,Overcooked! 2,2018-08-06,82.0,True,Xbox One;PlayStation 4;Nintendo Switch;Linux;PC;macOS
+29171,The Evil Within 2,2017-10-11,82.0,False,PlayStation 4;PC;Xbox One
+20405,Deathmatch Classic,2001-06-01,0.0,True,macOS;Linux;PC
+197,Trove,2015-07-09,65.0,True,PlayStation 4;Xbox One;PC;macOS
+4523,Red Faction: Armageddon,2011-06-07,75.0,True,PlayStation 3;Xbox 360;PC
+6773,Sunset Overdrive,2014-10-28,82.0,True,PC;Xbox One
+14334,Satellite Reign,2015-08-27,75.0,True,Linux;macOS;PC
+29215,Life is Strange: Before The Storm,2017-08-31,77.0,False,PlayStation 4;Xbox One;iOS;macOS;Linux;Android;PC
+17127,Torchlight,2009-10-26,83.0,False,Xbox 360;Xbox One;Linux;PC;macOS
+5297,Tomb Raider: Anniversary,2007-06-01,83.0,False,macOS;PC;PSP;PlayStation 2;Xbox 360;Wii;iOS
+366850,Ghostrunner,2020-10-27,0.0,False,PlayStation 5;Xbox Series S/X;PlayStation 4;Nintendo Switch;PC;Xbox One
+11970,Star Wars Jedi Knight: Jedi Academy,2003-09-16,81.0,True,Xbox 360;Xbox One;PC;macOS;Nintendo Switch;PlayStation 4;Xbox
+18003,Gone Home,2013-08-14,86.0,False,Nintendo Switch;iOS;PlayStation 4;PC;macOS;Linux
+10615,System Shock 2,1999-08-11,92.0,False,PC;macOS;Linux
+52939,Final Fantasy VII (1997),1997-01-31,83.0,False,PC;iOS;Android;Nintendo Switch;PlayStation;PlayStation 4;Xbox One
+4387,Awesomenauts,2012-05-01,78.0,True,PlayStation 3;Xbox 360;macOS;PC;Linux
+452634,Marvel's Spider-Man: Miles Morales,2020-11-12,86.0,True,PlayStation 5;PC;PlayStation 4
+17356,Orcs Must Die! 2,2012-07-30,83.0,True,PC
+1670,Shadowrun: Dragonfall - Director's Cut,2014-09-17,87.0,False,Nintendo Switch;iOS;PC;macOS;Linux;Android
+19196,ARMA: Cold War Assault,2001-08-29,0.0,True,PC
+28395,Metro: Last Light,2013-05-13,81.0,False,PC;PlayStation 3;Xbox 360
+13856,Katana ZERO,2019-04-17,83.0,False,Xbox One;Nintendo Switch;macOS;PC
+4331,Sonic Generations,2011-11-01,77.0,False,PC;Nintendo 3DS;Xbox 360;PlayStation 3;PlayStation 4;Xbox One
+2213,Kerbal Space Program,2015-04-26,88.0,False,Linux;macOS;PC;Xbox One;PlayStation 4
+2255,7 Days to Die,2013-12-13,0.0,True,Xbox One;PlayStation 4;PC;macOS;Linux
+58133,Spyro Reignited Trilogy,2018-11-13,80.0,False,Xbox One;PlayStation 4;PC;Nintendo Switch
+19429,Alien Swarm,2010-07-19,77.0,True,PC
+42776,Never Alone,2014-11-18,70.0,True,PlayStation 4;PlayStation 3;Wii U;Linux;macOS;Nintendo Switch;PC;Xbox One
+10031,Battlerite,2016-09-20,0.0,True,PC
+13079,Everlasting Summer,2013-12-12,0.0,False,Android;iOS;PC;macOS;Linux
+4388,Battlefield: Bad Company 2,2010-03-02,87.0,True,Xbox 360;PlayStation 3;PC;Xbox One
+22859,Deus Ex 2: Invisible War,2003-12-01,80.0,False,PC;Xbox
+263590,Risk of Rain 2,2020-08-11,82.0,True,Nintendo Switch;Xbox One;PlayStation 4;PC
+327999,Dota Underlords,2020-02-25,0.0,True,iOS;PC;macOS;Linux;Android
+58651,Totally Accurate Battlegrounds,2018-06-05,0.0,True,PC
+17252,Deadlight,2012-06-01,78.0,False,PC;Xbox 360
+204,Clicker Heroes,2015-05-13,0.0,True,Xbox One;PlayStation 4;Android;PC;iOS;macOS
+2722,Kholat,2015-06-08,64.0,True,Xbox One;Nintendo Switch;PlayStation 4;PC
+258322,Blasphemous,2019-09-09,78.0,False,Xbox One;Nintendo Switch;PlayStation 4;PC;Linux;macOS
+3265,God of War III Remastered,2015-07-14,81.0,False,PlayStation 4
+36,TEKKEN 7,2015-03-18,82.0,True,PlayStation 4;PC;Xbox One
+3562,Styx: Master of Shadows,2014-10-06,71.0,False,Xbox One;PlayStation 4;PC
+16355,Evolve Stage 2,2015-02-10,77.0,True,PC
+4249,HELL YEAH! Wrath of the Dead Rabbit,2012-09-25,64.0,False,PlayStation 3;Xbox 360;PC
