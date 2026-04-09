@@ -1,9 +1,33 @@
+# Environments & secrets
 .env
-__pycache__/
-*.pyc
-node_modules/
-backend/data/*.csv
-dist/
-.venv/
+.envrc
+.venv
+env/
 venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[codz]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Node
+node_modules/
+
+# Project-specific
+backend/data/*.csv
 .claude/
+
+# IDE
+.idea/
+.vscode/
+.ruff_cache/
+.mypy_cache/
